@@ -1,0 +1,12 @@
+{
+  "name": "info_bayesian",
+  "iterations": 200,
+  "n_iteration_for_parameter_evaluation": 1,
+  "n_action_state": [8,16,32],
+  "k": 50,
+  "time_cost_sample": 0.01,
+  "N": 10000,
+  "beta": [1,3,5,7,10,12,15,17,20,23,26,30],
+  "a": 1,
+  "b": 4
+}
